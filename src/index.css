@@ -50,8 +50,7 @@ a {
   text-transform: capitalize;
   display: flex;
   align-items: center;
-  /* switch back to start if issue */
-  justify-content: flex-start;
+  justify-content: start;
   cursor:pointer;
   background: transparent;
   outline: none;
